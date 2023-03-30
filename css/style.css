@@ -13,10 +13,10 @@ header {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 96%;
+    width: 95%;
     text-align: center;
-    padding: 2%;
-    margin: 3px 2px;
+    padding: 5px;
+    margin: 3px 1%;
     border-style: solid;
     border-width: 2px;
     border-color: #8003bb;
