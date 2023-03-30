@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
 
 body {
-    background-image: url(imagens/background.jpg);
+    background-image: url(/imagens/background.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-image: url(imagens/header.jpg);
+    background-image: url(/imagens/header.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
