@@ -12,7 +12,8 @@ header {
     background-image: url(/imagens/header.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 98%;
+    background-size: cover;
+    width: 95%;
     text-align: center;
     padding: 2%;
     margin: 1% 2px 1% 2px;
